@@ -879,9 +879,6 @@ if (
 
 if (item.observacao) {
 
-mensagem +=
-    `   📝 TESTE OBS: ${item.observacao || "SEM OBSERVAÇÃO"}\n`;
-
 }
 
 
